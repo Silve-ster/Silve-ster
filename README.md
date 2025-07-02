@@ -1,5 +1,5 @@
 ### Hi there 👋, Silvester Momanyi
-#### PCB and Embedded System designer
+#### Embedded System Engineer
 I'm thrilled to have you explore my GitHub space dedicated to all things PCB design and embedded systems. I'm a passionate designer in crafting intricate circuits and seamlessly integrating hardware and software.
 
 Skills: Power electronics/Signal integrity/Multi-layer design/Problem solving/Version control
